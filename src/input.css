@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.owl-stage {
+  display: flex;
+}
+
+.slide-p {
+  overflow: hidden;
+}
+
+.owl-stage-outer {
+  width: 80%;
+}
+
+.slide-p .nav-button {
+  padding-top: 0.1px;
+}
