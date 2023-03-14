@@ -813,6 +813,10 @@ video {
   width: 9rem;
 }
 
+.w-56 {
+  width: 14rem;
+}
+
 .shrink {
   flex-shrink: 1;
 }
@@ -894,6 +898,10 @@ video {
 
 .overflow-hidden {
   overflow: hidden;
+}
+
+.scroll-smooth {
+  scroll-behavior: smooth;
 }
 
 .whitespace-nowrap {
@@ -1337,6 +1345,10 @@ video {
 
 .hover\:border-b-2:hover {
   border-bottom-width: 2px;
+}
+
+.hover\:border-b-4:hover {
+  border-bottom-width: 4px;
 }
 
 .hover\:border-secondary:hover {
